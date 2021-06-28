@@ -1,4 +1,4 @@
-
+#Este es un pequeño programa hecho por mi, Javier Alberto Hernandez, es original no es copiado, es un poco extenso debido a que solo use lo que conocia en el momento, lo que son las condicionales.
 print ("""                     ***************calculador de resistencias*************""")
 print("""              
 
